@@ -6,4 +6,4 @@ import time,sys,socket,threading,logging,urllib.request,random
 
 
 if __name__ == '__main__':
-	print("\033use Releases\033[0m")
+	print("\033use Releases\033")
